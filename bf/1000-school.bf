@@ -4,7 +4,4 @@
 ----------.		PRINT 'o'
 +++.			PRINT 'o'
 +++++++++++++.		PRINT 'l'
-++.			PRINT 't'
------.			PRINT 'o'
--.			PRINT 'l'
 >[-]++++++++++.		PRINT '\n'
